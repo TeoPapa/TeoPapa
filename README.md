@@ -4,7 +4,7 @@ I'm Teo (from Theodoros) and currently im an undergraduate student in the compar
 
 I had a love for computers since when I remember myself. Particularly I had a love for games. I was getting imersed by the graphics, the storyteling, the music and in general everything that made a game what is. From then I had an aspiration to become a Game Developer and create games that would make other kids (like I once was) love the games and immerse themselves in the game world.
 
-For now I am currently reading for my Uni, meanwhile working on some 2D Projects on Unity Engine.
+Currently working on a University Project in (probably) Unreal Engine and a couple of games in Unity 2D
 
 <!---
 TeoPapa/TeoPapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
